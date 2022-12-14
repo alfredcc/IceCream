@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/realm/realm-core",
         "state": {
           "branch": null,
-          "revision": "55a48c287b5e3a8ca129c257ec7e3b92bcb2a05f",
-          "version": "12.3.0"
+          "revision": "b77443ca7fa25407869ca537bf3ae912b1427bff",
+          "version": "12.13.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/realm/realm-swift",
         "state": {
           "branch": null,
-          "revision": "2d5d121f6cf08aa84eeb076b653131a23f1edd6b",
-          "version": "10.28.3"
+          "revision": "b442ee3e9caa1abab26fd9b23f060f6f0815ff48",
+          "version": "10.33.0"
         }
       }
     ]
